@@ -2,11 +2,9 @@
 #####################################################
 # Exercise:                                         #
 # * Prepare the jobscript for appropriate execution #
-# * Check the script's content                      #
+# * Check the script's content Fill in the "<  >"   #
 # * Submit, examine and compare results             #
 #####################################################
-
-## BEGIN Fill-in the "<  >" ##
 
 #SBATCH -t <indicate the time> 
 #SBATCH --account <indicate the Unixgroup/Account>
