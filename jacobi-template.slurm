@@ -1,8 +1,7 @@
 #!/bin/bash
 #SBATCH --account=
 #SBATCH --partition=acc
-##SBATCH --qos=acc_debug
-#SBATCH --qos=acc_bsccs
+#SBATCH --qos=
 #SBATCH --nodes=
 #SBATCH --time=
 #SBATCH --ntasks-per-node=4
